@@ -7,6 +7,7 @@ Through recognizing someones emotion, specifically anger and detecting if they'r
 Goals of this project in the first phase:
 1. Functionality
 2. Accuracy
+3. Commenting and adding detailed documentation
 
 Structuring this Project:
 
