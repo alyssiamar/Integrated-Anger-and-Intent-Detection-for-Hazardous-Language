@@ -1,6 +1,6 @@
 # Integrated-Anger-and-Intent-Detection-for-Hazardous-Language
 
-Purpose of providing security and enhanced saftey.
+Purpose of providing security and enhanced safety.
 
 Through recognizing someones emotion, specifically anger and detecting if they're saying malicious words with ill intent.
 
